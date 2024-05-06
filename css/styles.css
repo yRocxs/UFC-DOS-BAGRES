@@ -14,17 +14,11 @@ body {
 header {
     background-color: #f0f0f0;
 
-    padding-top: 60px;
+    padding-top: 30px;
+
+    padding-bottom: 40px;
 
     text-align: center;
-}
-
-main {
-    display: flex;
-
-    flex-direction: column;
-
-    align-items: left;
 }
 
 section {
@@ -38,25 +32,43 @@ section {
 }
 
 /* 
+****** Container ******
+*/
+
+.container {
+    display: flex;
+
+    flex-wrap: wrap;
+
+    gap: 20px;
+
+    justify-content: center;
+
+    align-items: center;
+}
+
+.card {
+    width: calc(33.33% - 10px);
+
+    padding: 10px;
+
+    height: 1170px;
+
+    box-sizing: border-box;
+}
+
+/* 
 ****** Barra de navegação ******
 */
 
 div#navbar {
-    float: left;
+    position: fixed;
 
     padding: 0;
 
     text-align: center;
 
     text-decoration: none;
-}
-
-li#navegacao {
-    list-style: none;
-
-    padding: 0;
-
-    margin: 0;
 }
 
 ul#navegacao {
