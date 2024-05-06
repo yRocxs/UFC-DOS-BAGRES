@@ -62,9 +62,13 @@ img.instagram {
 
     padding: 10px;
 
-    height: 1180px;
+    height: 1210px;
 
     box-sizing: border-box;
+}
+
+.champ {
+    border: 2px solid #FFD700;
 }
 
 /* 
