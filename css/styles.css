@@ -1,4 +1,6 @@
-/* styles.css */
+/* 
+****** Geral ******
+*/
 
 * {
     margin: 0;
@@ -33,14 +35,6 @@ section {
     margin-bottom: 20px;
 
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-a {
-    text-decoration: none;
-}
-
-a:visited {
-    color: black;
 }
 
 /* 
@@ -79,6 +73,14 @@ a#navegacao {
     color: #000000;
 
     line-height: 2.2em;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
 }
 
 li.peso-leve {
