@@ -2,8 +2,6 @@
 
 **UFC dos Bagres** foi uma brincadeira criada entre amigos que simula um **modo carreira / RPG** dentro do jogo **UFC 5**, utilizando **apenas lutadores reais**. A ideia surgiu da vontade de dar mais contexto e continuidade às lutas, transformando cada evento em parte de uma narrativa maior.
 
-O projeto tinha como objetivo continuar evoluindo com o tempo, porém acabou ficando parado. Ainda assim, a ideia de retomá-lo no futuro permanece.
-
 ---
 
 ## 🎮 Como funcionava
